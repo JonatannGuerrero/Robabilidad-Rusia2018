@@ -86,7 +86,7 @@ antes mencionados, sus lugares se determinarán de la siguiente forma:
 
 Ejecuntado el programa realizado en Matlab se obtienen los siguientes resultados:
 
-**Probabilidad de los paises**
+**Probabilidad de los países**
 - Probabilidad de que Brasil clasifique: 1
 
 - Probabilidad de que Colombia clasifique: 0.86096
