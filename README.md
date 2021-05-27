@@ -1,12 +1,12 @@
 # Probabilidad de Clasificatoria Rusia 2018 ⚽📈
-Este codigo es un pequeño programa desarrollado en Matlab lo que realiza es calcular la probabilidad de las eliminatorias a Rusia 2018.
+Este código es un pequeño programa desarrollado en Matlab lo que realiza es calcular la probabilidad de las eliminatorias a Rusia 2018.
 
-- Para dar el resulado correcto el programa lo realice basado en la ley de los grandes numeros.
+- Para dar el resultado correcto el programa lo realice basado en la ley de los grandes números.
 
 - Ejecutarlo en Matlab:  El archivo principal es Rusia2018.m y para que se ejecute con éxito sus funciones deben estar en la misma carpeta que el archivo principal.
 
 
-**Problema que da paso al desarrollo del codigo.**
+**Problema que da paso al desarrollo del código.**
 
 Una vez jugada la fecha 15 de la eliminatoria, la tabla de posiciones al mundial
 de Rusia 2018 se encontraba de la siguiente manera:
@@ -84,7 +84,7 @@ antes mencionados, sus lugares se determinarán de la siguiente forma:
 
 # Resultados 🔥📈
 
-Ejecuntado el programa realizado en Matlab se obtienen los siguientes resultados:
+Ejecutando el programa realizado en Matlab se obtienen los siguientes resultados:
 
 **Probabilidad de los países**
 - Probabilidad de que Brasil clasifique: 1
@@ -97,7 +97,7 @@ Ejecuntado el programa realizado en Matlab se obtienen los siguientes resultados
 
 - Probabilidad de que Argentina clasifique: 0.51096
 
-- Probabilidad de que Peru clasifique: 0.489
+- Probabilidad de que Perú clasifique: 0.489
 
 - Probabilidad de que Paraguay clasifique: 0.17478
 
