@@ -3,7 +3,7 @@ Este código es un pequeño programa desarrollado en Matlab lo que realiza es ca
 
 - Para dar el resultado correcto el programa lo realice basado en la ley de los grandes números.
 
-- Ejecutarlo en Matlab:  El archivo principal es Rusia2018.m y para que se ejecute con éxito sus funciones deben estar en la misma carpeta que el archivo principal.
+- Ejecutarlo en Matlab:  El archivo principal es *Rusia2018.m* y para que se ejecute con éxito sus funciones deben estar en la misma carpeta que el archivo principal.
 
 
 **Problema que da paso al desarrollo del código.**
