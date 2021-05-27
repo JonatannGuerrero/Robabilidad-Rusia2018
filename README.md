@@ -50,16 +50,16 @@ En ese momento (agosto 31 de 2017) faltaban 3 fechas por jugar:
 Si suponemos que en los partidos de estas 3 fechas ningún equipo marca más
 de 5 goles:
 
-a. Calcule la probabilidad de clasificar al mundial para cada uno de los
+- Calcule la probabilidad de clasificar al mundial para cada uno de los
 países.
 
-b. Calcule la probabilidad de que Colombia clasifique 2do.
+- Calcule la probabilidad de que Colombia clasifique 2do.
 
-c. Calcule la probabilidad de que Colombia clasifique 3ro.
+- Calcule la probabilidad de que Colombia clasifique 3ro.
 
-d. Calcule la probabilidad de que Colombia clasifique 4to.
+- Calcule la probabilidad de que Colombia clasifique 4to.
 
-e. Calcule la probabilidad de que Colombia clasifique 5to.
+- Calcule la probabilidad de que Colombia clasifique 5to.
 
 **Formas como se determinan las posiciones**
 
@@ -76,3 +76,43 @@ Si dos o más equipos obtienen el mismo resultado conforme a los tres criterios
 antes mencionados, sus lugares se determinarán de la siguiente forma:
 
 - Si los equipos siguen empatados se realiza un sorteo (lanza una moneda).
+
+# Resultados 🔥📈
+
+Ejecuntado el programa realizado en Matlab se obtienen los siguientes resultados:
+
+**Probabilidad de los paises**
+- Probabilidad de que Brasil clasifique: 1
+
+- Probabilidad de que Colombia clasifique: 0.86096
+
+- Probabilidad de que Uruguay clasifique: 0.96962
+
+- Probabilidad de que Chile clasifique: 0.71045
+
+- Probabilidad de que Argentina clasifique: 0.51096
+
+- Probabilidad de que Peru clasifique: 0.489
+
+- Probabilidad de que Paraguay clasifique: 0.17478
+
+- Probabilidad de que Ecuador clasifique: 0.28423
+
+- Probabilidad de que Bolivia clasifique: 0
+
+- Probabilidad de que Venezuela clasifique: 0
+
+**Probabilidad solo de Colombia**
+ 
+- Probabilidad de que Colombia clasifique 2do: 0.17792
+
+- Probabilidad de que Colombia clasifique 3ro: 0.3095
+
+- Probabilidad de que Colombia clasifique 4to: 0.21794
+
+- Probabilidad de que Colombia clasifique 5to: 0.1556
+
+# 🔧 Built With
+- Matlab 
+# 📝 License
+MIT License Copyright © 2021 | JonatannGuerrero
