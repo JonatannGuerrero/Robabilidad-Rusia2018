@@ -19,8 +19,7 @@ de Rusia 2018 se encontraba de la siguiente manera:
 | Bolivia   | 10 | 3  | 1 | 11 | 13 | 34 |
 | Venezuela | 7  | 1  | 4 | 10 | 17 | 34 |
 
-**En ese momento (agosto 31 de 2017) faltaban 3 fechas por jugar:**                 
-
+En ese momento (agosto 31 de 2017) faltaban 3 fechas por jugar:                
 
 | 5 de Septiembre       |
 | :------------:        |
@@ -39,6 +38,7 @@ de Rusia 2018 se encontraba de la siguiente manera:
 | Colombia - Paraguay   |
 | Argentina - Perú      |
 
+
 | 10 de Octubre        |
 | :------------:       |
 | Ecuador - Argentina  |
@@ -47,3 +47,32 @@ de Rusia 2018 se encontraba de la siguiente manera:
 | Brasil - Chile       |
 | Uruguay - Bolivia    |
 
+Si suponemos que en los partidos de estas 3 fechas ningún equipo marca más
+de 5 goles:
+
+a. Calcule la probabilidad de clasificar al mundial para cada uno de los
+países.
+
+b. Calcule la probabilidad de que Colombia clasifique 2do.
+
+c. Calcule la probabilidad de que Colombia clasifique 3ro.
+
+d. Calcule la probabilidad de que Colombia clasifique 4to.
+
+e. Calcule la probabilidad de que Colombia clasifique 5to.
+
+**Formas como se determinan las posiciones**
+
+La clasificación de cada equipo en su grupo viene determinada por los criterios
+siguientes:
+
+- Mayor número de puntos obtenidos en todos los partidos de grupo.
+
+- Diferencia de goles en todos los partidos de grupo.
+
+- Mayor número de goles marcados en todos los partidos de grupo.
+
+Si dos o más equipos obtienen el mismo resultado conforme a los tres criterios
+antes mencionados, sus lugares se determinarán de la siguiente forma:
+
+- Si los equipos siguen empatados se realiza un sorteo (lanza una moneda).
