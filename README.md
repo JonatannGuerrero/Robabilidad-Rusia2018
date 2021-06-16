@@ -1,4 +1,4 @@
-# Probabilidad de Clasificatoria Rusia 2018 ⚽📈
+# Probabilidad de clasificatoria Rusia 2018 ⚽📈
 Este código es un pequeño programa desarrollado en Matlab lo que realiza es calcular la probabilidad de las eliminatorias a Rusia 2018.
 
 - Para dar el resultado correcto el programa lo realice basado en la ley de los grandes números.
